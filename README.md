@@ -65,8 +65,7 @@ committed to this repository.
 
 ## CONTRIBUTING
 
-This is a personal learning project and is not open to external contributions.
-Issues and pull requests are disabled on this repository.
+This repository is finished and not open to changes.
 
 ## LICENSE
 
